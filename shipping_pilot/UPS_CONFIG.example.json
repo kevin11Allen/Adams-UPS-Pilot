@@ -1,0 +1,15 @@
+{
+  "client_id": "REPLACE_WITH_CLIENT_ID",
+  "client_secret": "REPLACE_WITH_CLIENT_SECRET",
+  "shipper_number": "ABC123",
+  "origin": {
+    "name": "YOUR_COMPANY_CONTACT",
+    "phone": "",
+    "address1": "YOUR_STREET",
+    "address2": "",
+    "city": "YOUR_CITY",
+    "state": "NJ",
+    "postal_code": "YOUR_ZIP",
+    "country": "US"
+  }
+}
